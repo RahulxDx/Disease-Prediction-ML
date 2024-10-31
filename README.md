@@ -21,8 +21,8 @@ This project implements machine learning models to predict the likelihood of var
 
 ## 💻 Technology Stack
 
-- **Frontend**: HTML (82.9%)
-- **Backend**: Python (17.1%)
+- **Frontend**: HTML, CSS
+- **Backend**: Python
 - **Machine Learning Models**: 
   - `.h5` format for neural network models
   - `.pkl` format for traditional ML models
