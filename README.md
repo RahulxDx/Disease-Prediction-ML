@@ -1,6 +1,10 @@
 # Disease-Prediction-ML
 
 4 Diseases Prediction (Brain Tumor, Heart Disease, Diabetes, Breast Cancer). A machine learning-based web application for predicting multiple diseases including Brain Tumor, Heart Disease, Diabetes, and Breast Cancer.
+## Contributors
+- [Rahul](https://github.com/RahulxDx) 
+- [Teammate Name](https://github.com/Akshaya099)
+
 
 ## 🎯 Project Overview
 
