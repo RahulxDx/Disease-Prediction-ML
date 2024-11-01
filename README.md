@@ -75,5 +75,5 @@ python app.py
 
 1. Open the web application in your browser
 2. Select the disease you want to predict
-3. Input the required parameters/symptoms
+3. Input the required parameters/symptoms/scan report
 4. Submit the form to get the prediction results
